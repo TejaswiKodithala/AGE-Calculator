@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>AGE Calculator</title>
+        <link rel="stylesheet" href="age.css">
+        <meta name="vieewport" content="width=device-width,initial-scale=1.0">
+    </head>
+    <body>
+        <header id="head">AGE Calculator</header>
+        <div id="box">
+            <label for="dob">Enter DOB</label>
+            <input type="date" id="dob">
+            <br>
+            <button id="bu" onclick="getage()">Get age</button>
+        </div>
+        <div id="res">
+        <p id="age"></p>
+        <p id="months"></p>
+        <p id="weeks"></p>
+        <p id="days"></p>
+        <p id="hrs"></p>
+        <p id="mins"></p>
+        <p id="sec"></p>
+        </div>
+    </body>
+    <script src="age.js"></script>
+</html>
