@@ -1,9 +1,4 @@
 # AGE-Calculator
-#Here’s a template for your README file describing your Age Calculator project using HTML, CSS, JavaScript, and Responsive Web Design (RWD):
-
----
-
-# Age Calculator
 
 ## Overview
 The Age Calculator is a simple web application built using HTML, CSS, and JavaScript that allows users to calculate their age based on the input date of birth. The application is responsive and works seamlessly on various screen sizes and devices.
